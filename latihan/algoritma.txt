@@ -1,0 +1,12 @@
+ALGORITMA
+1. mengidentifikasi nilai siswa, apakah nilai siswa sudah cukup untuk dinyatakkan lulus dan mendapatkan ijazah
+2. nilai rata-rata = 80
+
+FLOWCHART
+1. program start
+2. user memasukan nilai
+3. nilai yang dimasukan user sedang di identifikasi
+4. jika nilai user >= 80 dan <= 100 user mendapatkan pop up dan menerima pesan dinyatakkan lulus dan layak mendapatkan ijazah
+5. jika nilai user < 80 user mendapatkan pop up dan menerima pesan dinyatakan tidak lulus dan mengulang lagi tahun depan
+6. user mendapatkan pop up dan menerima pesan 
+7. program end
